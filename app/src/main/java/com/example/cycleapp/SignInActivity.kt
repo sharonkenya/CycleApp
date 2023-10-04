@@ -1,6 +1,7 @@
 package com.example.cycleapp
 //import com.codingstuff.loginandsignup.MainActivity
 //import com.codingstuff.loginandsignup.SignUpActivity
+//import MainActivity
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast

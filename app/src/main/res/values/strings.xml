@@ -9,4 +9,8 @@
     <string name="retype_your_password">Retype Your Password</string>
     <string name="sign_up">Sign Up</string>
     <string name="already_registered_sign_in">Already Registered , Sign In !</string>
+    <string name="start_renting">Start Renting</string>
+    <string name="welcome_to_cycle_sawa">Welcome to Cycle Sawa!</string>
+    <string name="todo">TODO</string>
+    <string name="rent_a_bicycle_on_campus_at_an_affordable_fee">Rent a bicycle on campus at an affordable fee.</string>
 </resources>
