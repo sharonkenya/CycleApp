@@ -13,4 +13,11 @@
     <string name="welcome_to_cycle_sawa">Welcome to Cycle Sawa!</string>
     <string name="todo">TODO</string>
     <string name="rent_a_bicycle_on_campus_at_an_affordable_fee">Rent a bicycle on campus at an affordable fee.</string>
+    <string name="title_activity_renting">RentingActivity</string>
+    <string name="title_activity_rides">RidesActivity</string>
+    <string name="bicycle_description">Bicycle Description</string>
+    <string name="cost_60_kes_hour">Cost: 60 KES/hour</string>
+    <string name="rent">Rent</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="todo1">TODO</string>
 </resources>
