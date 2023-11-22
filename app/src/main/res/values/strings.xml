@@ -20,4 +20,13 @@
     <string name="rent">Rent</string>
     <string name="title_activity_splash">SplashActivity</string>
     <string name="todo1">TODO</string>
+    <string name="not_registered_yet_sign_up2">Not Registered Yet , Sign Up !</string>
+    <string name="type_your_email1">Type your Email</string>
+    <string name="type_your_password1">Type Your Password</string>
+    <string name="sign_in1">Sign In</string>
+    <string name="type_your_password3">Type Your Password</string>
+    <string name="type_your_email3">Type your Email</string>
+    <string name="retype_your_password3">Retype Your Password</string>
+    <string name="sign_up3">Sign Up</string>
+    <string name="already_registered_sign_in3">Already Registered , Sign In !</string>
 </resources>
