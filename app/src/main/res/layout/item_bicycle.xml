@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:text="@string/bicycle_description"
         android:textSize="16sp"
-        android:textColor="@android:color/black" />
+        android:textColor="@android:color/white" />
 
     <TextView
         android:id="@+id/textCost"
